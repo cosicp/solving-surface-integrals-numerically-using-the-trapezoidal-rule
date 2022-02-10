@@ -1,4 +1,4 @@
-# Solving-surface-integrals-numerically-using-the-trapezoidal-rule
+# Solving surface integrals numerically using the trapezoidal rule
 
 <p align="center">
   <img src="https://github.com/cosicp/solving-surface-integrals-numerically-using-the-trapezoidal-rule/blob/main/solving_surface_integrals_trapezoidal_rule.PNG">
