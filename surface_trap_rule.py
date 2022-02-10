@@ -1,5 +1,6 @@
 # Python 3 code for solving surface integrals numerically
-# autrhor: Petar Cosic
+# author: Petar Cosic
+# email: cpetar112@gmail.com
 # github: https://github.com/cosicp
 # date: 10.2.2022.
 
