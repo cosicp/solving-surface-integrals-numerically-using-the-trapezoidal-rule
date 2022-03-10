@@ -23,3 +23,8 @@ published by the Free Software Foundation, either version 3 of the
 License, or (at your option) any later version.
   
 
+## Motivation
+
+Additional assignment for Aircraft Design 2021/2022 course - Aleksandar
+M. Grbović, Miloš D. Petrašinović, Aerospace Engineering, Faculty of
+Mechanical Engineering, University of Belgrade. https://www.mas.bg.ac.rs/eng/start
